@@ -1,7 +1,7 @@
 ---
 title: "Direct Detection of Universal Expansion by Holonomy in the McVittie Spacetime"
 collection: publications
-category: articles
+category: manuscripts
 permalink: /publication/2019-01-24-McVittie
 excerpt: ''
 date: 2019-01-24
