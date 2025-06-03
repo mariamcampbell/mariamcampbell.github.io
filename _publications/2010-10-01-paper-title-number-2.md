@@ -1,7 +1,7 @@
 ---
 title: "Transitioning from a bounce to R^2 inflation"
 collection: publications
-category: articles
+category: manuscripts
 permalink: /publication/2023-06-16-Starobinsky-bounce
 excerpt: ''
 date: 2023-06-16
