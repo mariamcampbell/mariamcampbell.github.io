@@ -1,7 +1,7 @@
 ---
 title: "Bouncing cosmologies in the presence of a Dirac-Born-Infeld field"
 collection: publications
-category: articles
+category: manuscripts
 permalink: /publication/2024-08-05-DBI-bounce
 excerpt: ''
 date: 2024-08-05
