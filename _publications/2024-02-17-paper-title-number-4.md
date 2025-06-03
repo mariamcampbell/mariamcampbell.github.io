@@ -1,7 +1,7 @@
 ---
 title: "Some exact relativistic star solutions in f(R) gravity"
 collection: publications
-category: articles
+category: manuscripts
 permalink: /publication/2025-04-15-fR-stars
 excerpt: ''
 date: 2025-04-15
